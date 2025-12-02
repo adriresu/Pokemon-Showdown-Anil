@@ -1,0 +1,6 @@
+[submodule "pokemon-showdown"]
+	path = pokemon-showdown
+	url = git@github.com:adriresu/pokemon-showdown.git
+[submodule "pokemon-showdown-client"]
+	path = pokemon-showdown-client
+	url = git@github.com:adriresu/pokemon-showdown-client.git
